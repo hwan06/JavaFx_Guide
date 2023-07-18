@@ -12,4 +12,10 @@
 ---
 ### 4. 이클립스에서 JavaFx 플러그인 설치
 ![image](https://github.com/hwan06/JavaFx_Guide/assets/114748934/2a328353-2f91-4ee9-ac33-b931caf01eaa)
+---
+### 5. JavaFx 프로젝트 파일 생성 후 빌드패스 열기 
+![image](https://github.com/hwan06/JavaFx_Guide/assets/114748934/18ac3c53-a8c7-4b03-9b62-4c32f6678085)
+---
+### 6. 사진에 표시된 경로를 따라 설정해주면 끝
+![254192837-415fcb34-e3ea-4ede-a59f-f4c4487f03a3](https://github.com/hwan06/JavaFx_Guide/assets/114748934/f55658d5-3e01-4c88-9a49-37f6766cb9ab)
 
